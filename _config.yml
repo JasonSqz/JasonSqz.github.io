@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Senqi Zhang"
 title_separator          : "-"
 name                     : &name "Your Name"
-description              : &description "personal description"
+description              : &description "Senqi's webpage"
 url                      : https://jasonsqz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jasonsqz/jasonsqz.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Senqi Zhang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Learning towards a data scientist"
   location         : "NYC, New York"
   employer         :
   pubmed           : 
