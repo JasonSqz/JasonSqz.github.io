@@ -1,4 +1,10 @@
-# main links links
+# Add sections to display
 main:
+  - title: "Projects"
+    url: /projects/
+
+  - title: "Resume"
+    url: /resume/
+
   - title: "Publications"
     url: /publications/
