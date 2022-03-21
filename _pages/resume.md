@@ -1,6 +1,7 @@
 ---
-title: "Resume"
 permalink: /resume/
 ---
 
-![](files/resume.jpg)
+<object src="files/resume.pdf" width="500" height="720">
+    <a href="YourFile.pdf">resume</a> 
+</object>
