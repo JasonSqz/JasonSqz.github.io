@@ -6,4 +6,8 @@ author_profile: true
 ---
 
 
-SOMEPROJECT!!
+## [Elon Musk On Twitter](https://jasonsqz.github.io/ElonMuskTwitter/)
+
+## [Recommender System](/files/rs.pdf) 
+
+## [edav.info](edav.info)

@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Senqi Zhang"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Senqi's webpage"

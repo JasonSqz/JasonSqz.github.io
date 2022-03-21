@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Senqi's webpage"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is the brand new start of Senqi's webpage!!
+ This is the brand new start of Senqi's webpage!!
