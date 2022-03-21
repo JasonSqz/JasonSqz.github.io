@@ -3,4 +3,4 @@ title: "Resume"
 permalink: /resume/
 ---
 
-![]("files/resume.jpg")
+![](files/resume.jpg)
