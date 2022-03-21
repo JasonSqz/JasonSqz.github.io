@@ -10,4 +10,4 @@ author_profile: true
 
 ## [Recommender System](/files/rs.pdf) 
 
-## [edav.info](edav.info)
+## <a href="edav.info" target="_blank">edav.info</a>
