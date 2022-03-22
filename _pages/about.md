@@ -11,3 +11,9 @@ redirect_from:
 ### Student at Columbia University
 
 I am Senqi Zhang, a Master's student major in Data Science at Columbia University. Before that, I received my bachelor's degree in Data Science at University of Rochester. 
+
+
+### Why Data Science
+
+![](/images/Wuhan.jpg)
+*Hometown Wuhan*
