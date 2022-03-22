@@ -1,13 +1,21 @@
 ---
-layout: archive
-title: "Data Analytical Project"
+title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
 
+Through my studies, I have conducted many projects in various topics. I want to showcase them and keep track of them on this page. 
 
-## [Elon Musk On Twitter](https://jasonsqz.github.io/ElonMuskTwitter/)
+## 1. [Elon Musk On Twitter](https://jasonsqz.github.io/ElonMuskTwitter/)
 
-## [Recommender System](/files/rs.pdf) 
+This is a project studying discussions of Elon Musk on Twitter. The report combined analysis and visualizations to present what we learnt from the data. It is hosted on GitHub as a bookdown page.
 
-## <a href="https://edav.info" target="_blank">edav.info</a>
+## 2. <a href="https://edav.info">edav.info</a>
+
+I am currently building `edav.info`, which is an additional resource for GR5293 Statistical Graphics and GR5702 Exploratory Data Analysis and Visualization courses offered at Columbia University. The website introduces R graphing techniques and is updated at a weekly basis.
+
+## 3. [Recommender System](/files/rs.pdf) 
+
+
+
+
