@@ -16,6 +16,6 @@ I am currently building `edav.info`, which is an additional resource for GR5293 
 
 ## 3. [Recommender System](/files/rs.pdf) 
 
-
+We created a recommender system using Amazon review dataset. We applied both content-based and collaborative filtering and reported the results.
 
 

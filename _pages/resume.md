@@ -1,9 +1,6 @@
 ---
 permalink: /resume/
+title: "Resume"
 ---
 
-# Resume
-
-I constantly update my resume and upload on this page.
-
-## [Resume](/files/resume.pdf)
+I regularly update my resume and upload on this page.[Click here](/files/resume.pdf)
