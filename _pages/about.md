@@ -1,5 +1,6 @@
 ---
 permalink: /
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -7,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am Senqi Zhang, a Master's student major in Data Science at Columbia University. Before that, I acheived my bachelor's degree in Data Science at University of Rochester. 
+I am Senqi Zhang, a Master's student major in Data Science at Columbia University. Before that, I received my bachelor's degree in Data Science at University of Rochester. 
