@@ -7,4 +7,15 @@ author_profile: true
 
 ### 1. [The COVID-19 Pandemic and Mental Health Concerns on Twitter in the United States](https://spj.sciencemag.org/journals/hds/2022/9758408/)
 
-Published on Health Data Science Journal. The paper studied the mental health concern relating to COVID-19 using a vast amount of Twitter data.
+Senqi Zhang$^1$, **Li Sun$^1$**, Daiwei Zhang, Pin Li, Yue Liu, Zidian Xie, Dongmei Li
+
+Health Data Science, 2022
+
+$^1$ Senqi Zhang and Li Sun contributed equally to this study.
+
+### 2. [Mental Health Concerns Related to the COVID-19 Pandemic on Twitter in the United Kingdom](https://www.omicsonline.org/open-access/mental-health-concerns-related-to-the-covid19-pandemic-on-twitter-in-the-united-kingdom-117793.html)
+
+Daiwei Zhang, Yue Liu, **Senqi Zhang**, Li Sun, Pin Li, Zidian Xie, Dongmei Li
+
+
+Journal of Infectious Diseases & Therapy, 2021
