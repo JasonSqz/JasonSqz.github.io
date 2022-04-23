@@ -18,10 +18,6 @@ We created a recommender system using Amazon review dataset. We applied both con
 
 I am currently building `edav.info`, which is an additional resource for GR5293 Statistical Graphics and GR5702 Exploratory Data Analysis and Visualization courses offered at Columbia University. The website introduces R graphing techniques and is updated at a weekly basis.
 
-## 4. [Forcasting yields of a certain plant](https://colab.research.google.com/drive/1YfoR3NpYsswnHgVy7hrCy1ayIksVCJN3?authuser=1#scrollTo=Us5Hi881SMo3)
-
-Old-school time series forecasting using SARIMAX.
-
 ## 4. [Bookstore system](https://github.com/JasonSqz/bookstore_system)
 
 For this project, I constructed both the front-end interface and back-end management system for the bookstore website page. Users can look up on books by name, ISBN, and author.
